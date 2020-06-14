@@ -1,0 +1,13 @@
+.DS_Store 
+/[Bb]uild/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uids/
+.xcoderoj
+
+*.plist
+*.xcbkptlist
+*.xcsettings
+*.xcuserstate
+*.xcworkspacedata
+*.pbxproj
