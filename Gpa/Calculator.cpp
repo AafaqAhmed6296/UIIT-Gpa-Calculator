@@ -41,7 +41,7 @@ void Calculator:: getData()
             qP[i] = 16.00;
         totalcredHour += credHr;
         totalQualityPoint += qP[i];
-        system("clear");
+        system("clear"); // For windows use system("CLS")
     }
 }
 
